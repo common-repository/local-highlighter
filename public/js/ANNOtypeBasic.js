@@ -1,0 +1,1 @@
+jQuery(document).ready(function(a){a(".ANNOchiclet").click(function(){window.location=a(this).attr("id");return false})});
